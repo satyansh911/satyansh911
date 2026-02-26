@@ -321,7 +321,7 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
     <tr>
       <td align="center">
         <a href="mailto:satyanshofficial@gmail.com" target="_blank">
-          <img src="Gif/mail.gif" alt="Email" width=150> 
+          <img src="https://raw.githubusercontent.com/satyansh911/satyansh911/main/Gif/mail.gif" alt="Email" width=150> 
           <br>
           satyanshofficial@gmail.com
         </a>
