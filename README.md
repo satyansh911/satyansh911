@@ -1,11 +1,3 @@
-<head>
-<style>
-    .italic{
-        font-style: italic;
-    }
-</style>
-</head>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
@@ -15,7 +7,7 @@
 </div>
 
 
-<h1 align="center" class="italic">Hello, I'm Satyansh Singh<br/>
+<h1 align="center" style="font-style: italic;">Hello, I'm Satyansh Singh<br/>
 <img src="./Gif/monitor.gif">
 <img src="./Gif/laptop.gif">
 <img src="./Gif/github.gif">
@@ -36,7 +28,7 @@
 <div align="center">
 
 ---
-<h1 align="center" class="italic"> About Me</h1>
+<h1 align="center" style="font-style: italic;"> About Me</h1>
 
 I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a primary focus on **_system design_** and the creation of high-quality digital experiences. My learning journey has been driven by a passion for <u>solving complex problems and building scalable, high-performance applications that bridge technical efficiency with intuitive interfaces</u>. I have cultivated a deep interest in **_Backend Engineering, Distributed Systems, and DevOps_**, focusing on the structured design of large-scale systems through rigorous requirements analysis and capacity estimation. My foundation is rooted in a strong command of algorithms and data structures, evidenced by solving over **500** coding problems across various competitive programming platforms. Beyond core development, I actively explore high-level architecture and scalability fundamentals to deliver exceptional results in dynamic environments.
 
@@ -44,9 +36,9 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
 
 ---
 
-<h1 align="center" class="italic"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h1 align="center" style="font-style: italic;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-<h2 align="center" class="italic">Web Development</h2>
+<h2 align="center" style="font-style: italic;">Web Development</h2>
 
 <div align="center">
 <table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
@@ -264,7 +256,7 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
 </div>
 
 ---
-<h1 align="center" class="italic">Git Stats</h1>
+<h1 align="center" style="font-style: italic;">Git Stats</h1>
 
 <div align="center">
  
@@ -299,7 +291,7 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
 <br>
 
 ---
-<h1 align="center" class="italic">Coding Metrics & Profiles</h1>
+<h1 align="center" style="font-style: italic;">Coding Metrics & Profiles</h1>
 <div align="center">
 
 | **LeetCode Stats** | **CodeChef Stats** | **Codeforces Stats** 
