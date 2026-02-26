@@ -280,7 +280,7 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyansh911&theme=highcontrast&hide_border=true">
 
-<img src="https://stats.hyo.dev/api/github-stats-advanced?login=satyansh911" alt="GitHub Trophies for satyansh911">
+<!-- <img src="https://stats.hyo.dev/api/github-stats-advanced?login=satyansh911" alt="GitHub Trophies for satyansh911"> -->
 
 ### **_GitHub Contribution Chart_**
 <a href="https://github.com/satyansh911">
