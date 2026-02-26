@@ -8,9 +8,9 @@
 
 
 <h1 align="center"><b><i>Hello, I'm Satyansh Singh</i></b><br/>
-<img src="./Gif/monitor.gif">
+<!-- <img src="./Gif/monitor.gif"> -->
 <img src="./Gif/laptop.gif">
-<img src="./Gif/github.gif">
+<!-- <img src="./Gif/github.gif"> -->
 </h1>
 
 
