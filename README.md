@@ -7,7 +7,7 @@
 </div>
 
 
-<h1 align="center" style="font-style: italic;">Hello, I'm Satyansh Singh<br/>
+<h1 align="center"><b><i>Hello, I'm Satyansh Singh</i></b><br/>
 <img src="./Gif/monitor.gif">
 <img src="./Gif/laptop.gif">
 <img src="./Gif/github.gif">
@@ -28,15 +28,15 @@
 <div align="center">
 
 ---
-<h1 align="center" style="font-style: italic;"> About Me</h1>
+<h1 align="center"><i> About Me</h1>
 
 I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a primary focus on **_system design_** and the creation of high-quality digital experiences. My learning journey has been driven by a passion for <u>solving complex problems and building scalable, high-performance applications that bridge technical efficiency with intuitive interfaces</u>. I have cultivated a deep interest in **_Backend Engineering, Distributed Systems, and DevOps_**, focusing on the structured design of large-scale systems through rigorous requirements analysis and capacity estimation. My foundation is rooted in a strong command of algorithms and data structures, evidenced by solving over **500** coding problems across various competitive programming platforms. Beyond core development, I actively explore high-level architecture and scalability fundamentals to deliver exceptional results in dynamic environments.
-
+</i>
 <br/>
 
 ---
 
-<h1 align="center" style="font-style: italic;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"><b><i> Tech Stack</h1>
 
 <h2 align="center" style="font-style: italic;">Web Development</h2>
 
@@ -336,7 +336,7 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
 <div align="center">
 <h3>  
 <img src="./Gif/star.gif" width=30> From <a href="https://github.com/satyansh911">Satyansh</a> | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
-
+</i>
 </h3>
 </div>
 </h3>
