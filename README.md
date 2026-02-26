@@ -1,41 +1,352 @@
-<h1 align="center">Hey, I'm Satyansh Singh</h1>
-<h3 align="center">Aspiring Software Developer from India</h3>
+<head>
+<style>
+    .italic{
+        font-style: italic;
+    }
+</style>
+</head>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyansh911&label=Profile%20views&color=0e75b6&style=flat" alt="satyansh911" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyansh911" alt="satyansh911" /></a> </p>
+<div align="center">
+  <a href="own.page/satyansh911" target="_blank">
+    <img src="./projectimg/image (4).png"/>
+  </a>
+</div>
 
-- 🌌 I’m currently working on: [ADHDapt – a productivity app with gamified tools, AI-driven scheduling, and community features.](https://github.com/satyansh911/adhdapt-v3)
 
-- 🌱 I’m currently learning: **Backend Development and Data Structures and Algorithms**
+<h1 align="center" class="italic">Hello, I'm Satyansh Singh<br/>
+<img src="./Gif/monitor.gif">
+<img src="./Gif/laptop.gif">
+<img src="./Gif/github.gif">
+</h1>
 
-- 🤝 I’m looking to collaborate on: **Innovative full-stack or SaaS projects, especially those involving real-time communication, cloud, or workflow automation.**
 
-- 🙌 I’m looking for help with: **Building scalable distributed systems and exploring advanced networking concepts.**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40ff2d&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [github.com/satyansh911](github.com/satyansh911)
-
-- 💬 Ask me about: **Full-stack development, debugging real-time apps, or optimizing backend performance.**
-
-- 📫 How to reach me: **satyanshofficial@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Eg2vWXHQg4cSgo4qKnar5p06YDPAwD4d/view?usp=sharing](https://drive.google.com/file/d/1Eg2vWXHQg4cSgo4qKnar5p06YDPAwD4d/view?usp=sharing)
-
-- ⚡ Fun fact **Half my bugs are typos, the other half are “features” lol.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyansh-singh-b27058292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyansh-singh-b27058292" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/satyansh911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satyansh911" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/satyansh911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="satyansh911" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satyansh911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyansh911" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyansh911&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyansh911&show_icons=true&locale=en&layout=compact" alt="satyansh911" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyansh911&show_icons=true&locale=en" alt="satyansh911" /></p>
+<div align="center">
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyansh911&" alt="satyansh911" /></p>
+---
+<h1 align="center" class="italic"> About Me</h1>
+
+I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a primary focus on **_system design_** and the creation of high-quality digital experiences. My learning journey has been driven by a passion for <u>solving complex problems and building scalable, high-performance applications that bridge technical efficiency with intuitive interfaces</u>. I have cultivated a deep interest in **_Backend Engineering, Distributed Systems, and DevOps_**, focusing on the structured design of large-scale systems through rigorous requirements analysis and capacity estimation. My foundation is rooted in a strong command of algorithms and data structures, evidenced by solving over **500** coding problems across various competitive programming platforms. Beyond core development, I actively explore high-level architecture and scalability fundamentals to deliver exceptional results in dynamic environments.
+
+<br/>
+
+---
+
+<h1 align="center" class="italic"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+
+<h2 align="center" class="italic">Web Development</h2>
+
+<div align="center">
+<table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;"><b><i>Frontend</i></b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>React
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.typescriptlang.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://jquery.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
+        </a>
+        <br>jQuery
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+<div align="center">
+<table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;"><b><i>Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./icons/grpc.png" width="50" height="50"/><br>gRPC
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;"><b><i>Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./icons/Redis.png" alt="Redis" height="50"/><br>Redis
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h2 align="center"><b><i>Cloud Computing & DevOps</i></b></h2>
+
+<div align="center">
+<table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;"><b><i>Containerization & Orchestration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+  <table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;"><b><i>Cloud Providers</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none; padding: 12px;">
+          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+        </td>
+        <td align="center" style="border: none; padding: 12px;">
+          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+        </td>
+        <td align="center" style="border: none; padding: 12px;">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center">
+<table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;"><b><i>Infrastructure as Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
+      </td>
+        <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
+       </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+<h2 align="center"><b><i> Tools & Prompt Engineering</i></b></h2>
+<div align="center">
+ <table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;"><b><i>AI & Design Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./icons/gemini-color.png" width="50" height="50" alt="Google Gemini"/>
+        <br>Google Gemini
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./icons/figma.png" width="50" height="50" alt="Figma"/>
+        <br>Figma
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+---
+<h1 align="center" class="italic">Git Stats</h1>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=satyansh911&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyansh911&custom_title=Satyansh's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyansh911&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyansh911&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyansh911&theme=highcontrast&hide_border=true">
+
+<img src="https://stats.hyo.dev/api/github-stats-advanced?login=satyansh911" alt="GitHub Trophies for satyansh911">
+
+### **_GitHub Contribution Chart_**
+<a href="https://github.com/satyansh911">
+    <img src="https://ghchart.rshah.org/satyansh911" alt="Satyansh's GitHub Contribution Chart">
+</a>
+
+
+<br>
+
+---
+<h1 align="center" class="italic">Coding Metrics & Profiles</h1>
+<div align="center">
+
+| **LeetCode Stats** | **CodeChef Stats** | **Codeforces Stats** 
+| :---: | :---: | :--: |
+| <a href="https://leetcode.com/u/satyansh911/"><img src="https://leetcard.jacoblin.cool/satyansh911?theme=dark&font=Fira%20Code&ext=heatmap" width="400" /></a> | <a href="https://www.codechef.com/users/satyansh911"><img src="./projectimg/codechef.png" width="200"></a>  | <a href="https://codeforces.com/profile/Satyansh911">[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Satyansh911&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Satyansh911)</a> |
+
+
+| **Codolio DSA Stats** | **Codolio WebDev Stats** |
+| :--: | :--: |
+| <a href="https://codolio.com/profile/satyansh911"><img src="./projectimg/image (5).png"></a> | <a href="https://codolio.com/profile/satyansh911"><img src="./projectimg/image (6).png"></a>
+</div>
+
+</div>
+
+---
+
+
+<h1 align="center"><img src="./Gif/connect1.gif" width=45><b><i> Let's Connect!</h1>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="mailto:satyanshofficial@gmail.com" target="_blank">
+          <img src="./Gif/mail.gif" alt="Email" width=150> 
+          <br>
+          satyanshofficial@gmail.com
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h3>
+<div align="center">
+<h3>  
+<img src="./Gif/star.gif" width=30> From <a href="https://github.com/satyansh911">Satyansh</a> | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
+
+</h3>
+</div>
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
