@@ -38,7 +38,7 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"><b><i> Tech Stack</h1>
 
-<h2 align="center" style="font-style: italic;">Web Development</h2>
+<h2 align="center" >Web Development</h2>
 
 <div align="center">
 <table style="background-color: white; color: white; border: white; border-radius: 15px; overflow: hidden;">
@@ -256,7 +256,7 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
 </div>
 
 ---
-<h1 align="center" style="font-style: italic;">Git Stats</h1>
+<h1 align="center" >Git Stats</h1>
 
 <div align="center">
  
@@ -291,7 +291,7 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
 <br>
 
 ---
-<h1 align="center" style="font-style: italic;">Coding Metrics & Profiles</h1>
+<h1 align="center" >Coding Metrics & Profiles</h1>
 <div align="center">
 
 | **LeetCode Stats** | **CodeChef Stats** | **Codeforces Stats** 
@@ -321,7 +321,7 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
     <tr>
       <td align="center">
         <a href="mailto:satyanshofficial@gmail.com" target="_blank">
-          <img src="./Gif/mail.gif" alt="Email" width=150> 
+          <img src="Gif/mail.gif" alt="Email" width=150> 
           <br>
           satyanshofficial@gmail.com
         </a>
