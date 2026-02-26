@@ -318,10 +318,12 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
     </tr>
   </thead>
   <tbody>
+  </i>
+  </b>
     <tr>
       <td align="center">
         <a href="mailto:satyanshofficial@gmail.com" target="_blank">
-          <img src="./Gif/mail1.gif" alt="Email" width=150> 
+          <img src="https://raw.githubusercontent.com/satyansh911/satyansh911/main/Gif/mail1.gif" alt="Email" width="150">
           <br>
           satyanshofficial@gmail.com
         </a>
@@ -329,14 +331,12 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
     </tr>
   </tbody>
 </table>
-
 <br>
 
 <h3>
 <div align="center">
 <h3>  
 <img src="./Gif/star.gif" width=30> From <a href="https://github.com/satyansh911">Satyansh</a> | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
-</i>
 </h3>
 </div>
 </h3>
