@@ -298,10 +298,6 @@ I am a **_Full-Stack Developer_** dedicated to continuous web evolution, with a 
 | :---: | :---: | :--: |
 | <a href="https://leetcode.com/u/satyansh911/"><img src="https://leetcard.jacoblin.cool/satyansh911?theme=dark&font=Fira%20Code&ext=heatmap" width="400" /></a> | <a href="https://www.codechef.com/users/satyansh911"><img src="./projectimg/codechef.png" width="200"></a>  | <a href="https://codeforces.com/profile/Satyansh911">[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Satyansh911&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Satyansh911)</a> |
 
-
-| **Codolio DSA Stats** | **Codolio WebDev Stats** |
-| :--: | :--: |
-| <a href="https://codolio.com/profile/satyansh911"><img src="./projectimg/image (5).png"></a> | <a href="https://codolio.com/profile/satyansh911"><img src="./projectimg/image (6).png"></a>
 </div>
 
 </div>
